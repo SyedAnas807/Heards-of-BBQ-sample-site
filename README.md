@@ -26,3 +26,25 @@ A mouth-watering, responsive landing page designed for **Heards of BBQ**, a barb
 ├── styles.css       # Custom stylesheets
 ├── script.js        # JavaScript functionality
 └── README.md        # Project documentation
+
+🚀 How to Run
+Clone the repository
+
+Bash
+
+git clone [https://github.com/SyedAnas807/Heards-of-BBQ-sample-site.git](https://github.com/SyedAnas807/Heards-of-BBQ-sample-site.git)
+Navigate to the project directory
+
+Bash
+
+cd Heards-of-BBQ-sample-site
+Open index.html
+
+Simply double-click index.html to view the site in your browser.
+
+👤 Author
+Syed Anas
+
+GitHub: @SyedAnas807
+
+This project is for educational/portfolio purposes.
